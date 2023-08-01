@@ -20,4 +20,11 @@ body {
 .container .direito {
   width: 50%;
   background-color: aquamarine;
+}
+.container .direito .text {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: blueviolet;
 }/*# sourceMappingURL=style.css.map */

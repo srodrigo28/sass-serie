@@ -17,5 +17,5 @@ https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 ```
 
 control + shift + p{
-    > live sass: watch sass
+    > Live Sass: Watch Sass
 }
