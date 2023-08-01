@@ -10,3 +10,12 @@ https://cursos.alura.com.br/course/sass-css-sintaticamente-espetacular
 ```
 https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias
 ```
+
+* Configurar pastas Material Icons
+```
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+```
+
+control + shift + p{
+    > live sass: watch sass
+}

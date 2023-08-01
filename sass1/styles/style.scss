@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+
+    .esquerdo{
+        width: 50%;
+        background-color: blueviolet;
+
+        .text{
+            margin-top: 40%;
+            text-align: center;
+            color: aquamarine;
+            font-size: 150px;
+        }
+    }
+    .direito{
+        width: 50%;
+        background-color: aquamarine;
+    }
+}
